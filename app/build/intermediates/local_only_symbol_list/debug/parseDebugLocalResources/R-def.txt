@@ -1,0 +1,31 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string blue
+string color_chosen_message
+string footer_text_picker
+string green
+string header_text_main
+string header_text_picker
+string indigo
+string orange
+string red
+string submit_button_text
+string title_activity_color_picker
+string unexpected_color
+string violet
+string yellow
+style Theme.ActivityResults
+xml backup_rules
+xml data_extraction_rules
